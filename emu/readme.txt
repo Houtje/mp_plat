@@ -1,0 +1,1 @@
+Move the DeSmuME folder here, then move lua51.dll and your Platinum (4997, USA) ROM into the folder. Only works with 64-bit Windows, for now.
